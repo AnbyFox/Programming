@@ -1,0 +1,7 @@
+Mike Kalashnikov 2002 Male 180
+Ivan Davidov 1998 Male 178
+David Ivanov 1998 Male 168
+Dmitri Nakolnikov 1958 Male 189
+Ulia Ivanovna 2006 Female 170
+Maria Donatskya 2002 Female 170
+Aleksandr Nikolaevich 2005 Male 190
