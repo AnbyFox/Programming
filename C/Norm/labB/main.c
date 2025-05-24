@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "massives.h"
+#include "args.h"
 
 int main(int argc, char *argv[]) {
 	printf("Sum: %d", arg_sum(5, 1, 2, 3, 4, 5));
